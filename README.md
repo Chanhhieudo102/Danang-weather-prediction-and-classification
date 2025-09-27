@@ -10,11 +10,20 @@ Dữ liệu được thu thập bằng API từ trang web weatherapi.com với h
 ## 📂 Cấu trúc thư mục
 📂 Danang-weather-prediction-and-classification
 ┣ 📂 data/ # Dữ liệu thô và dữ liệu tiền xử lý
+
 ┃ ┣ raw_data_train.csv
+
 ┃ ┗ raw_data_test.csv
+
 ┣ 📂 notebooks/ # Notebook theo từng bước xử lý
+
 ┃ ┣ Crawl.ipynb # Crawl dữ liệu từ Open-Meteo API
+
 ┃ ┣ FeatureEngineer.ipynb # Làm sạch, xử lý dữ liệu, trích xuất đặc trưng
+
 ┃ ┣ ClassificationModel.ipynb# Mô hình phân loại thời tiết
+
 ┃ ┗ RegressionModel.ipynb # Mô hình hồi quy nhiệt độ
+
 ┣ README.md # Tài liệu mô tả dự án
+
