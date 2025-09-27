@@ -9,6 +9,7 @@ Dữ liệu được thu thập bằng API từ trang web weatherapi.com với h
 ---
 ## 📂 Cấu trúc thư mục
 📂 Danang-weather-prediction-and-classification
+
 ┣ 📂 data/ # Dữ liệu thô và dữ liệu sau khi xử lí
 
 ┃ ┣ raw_data_train.csv
